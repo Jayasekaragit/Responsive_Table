@@ -1,2 +1,2 @@
-# Responsive_Table
-Responsive Card design using Boostrap
+# nav_tabs
+navigation bar with tabs
